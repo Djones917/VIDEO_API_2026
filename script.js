@@ -1,1 +1,2 @@
-const bTn = 0:
+const video = document.getElementById('video');
+
